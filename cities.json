@@ -160,6 +160,106 @@
                     "region": "North Eastern",
                     "latitude": 42.332,
                     "longitude": -71.0202
-                 }
+				 },                
+				 {
+                    "flagUrl": "http://cdn.jaminya.com/images/states/north_carolina_88x88.png",
+                    "slug": "north_carolina88",
+                    "sports_team": "Panters",
+                    "city": "Charlotte",
+                    "state": "Nort Carolina",
+                    "region": "Eastern",
+                    "latitude": 35.2078,
+                    "longitude": -80.8310
+				 },
+				 {
+                    "flagUrl": "http://cdn.jaminya.com/images/states/colorado_88x88.png",
+                    "slug": "denver88",
+                    "sports_team": "Broncos",
+                    "city": "Denver",
+                    "state": "Colorado",
+                    "region": "Western",
+                    "latitude": 39.7619,
+                    "longitude": -104.8811
+				 },
+				 {
+                    "flagUrl": "http://cdn.jaminya.com/images/states/texas_88x88.png",
+                    "slug": "texas88",
+                    "sports_team": "Cowboys",
+                    "city": "El Paso",
+                    "state": "Texas",
+                    "region": "Central",
+                    "latitude": 31.8484,
+                    "longitude": -106.4270
+				 },
+				 {
+                    "flagUrl": "http://cdn.jaminya.com/images/states/michigan_88x88.png",
+                    "slug": "michigan88",
+                    "sports_team": "None",
+                    "city": "Detroit",
+                    "state": "Michigan",
+                    "region": "North Central",
+                    "latitude": 42.3830,
+                    "longitude": -83.1022
+				 },
+				 {
+                    "flagUrl": "http://cdn.jaminya.com/images/states/tennessee_88x88.png",
+                    "slug": "tennessee88",
+                    "sports_team": "Titans",
+                    "city": "Nashville",
+                    "state": "Tennessee",
+                    "region": "Central",
+                    "latitude": 36.1718,
+                    "longitude": -86.7850
+				 },
+				 {
+                    "flagUrl": "http://cdn.jaminya.com/images/states/tennessee_88x88.png",
+                    "slug": "tennessee88",
+                    "sports_team": "Titans",
+                    "city": "Memphis",
+                    "state": "Tennessee",
+                    "region": "Central",
+                    "latitude": 35.1028,
+                    "longitude": -89.9774
+				 },
+				 {
+                    "flagUrl": "http://cdn.jaminya.com/images/states/oregon_88x88.png",
+                    "slug": "oregon88",
+                    "sports_team": "Seahawks",
+                    "city": "Portland",
+                    "state": "Oregon",
+                    "region": "North Western",
+                    "latitude": 45.5370,
+                    "longitude": -122.6500
+				 },
+				 {
+                    "flagUrl": "http://cdn.jaminya.com/images/states/oklahoma_88x88.png",
+                    "slug": "oklahoma88",
+                    "sports_team": "Thunder",
+                    "city": "Oklahoma City",
+                    "state": "Oklahoma",
+                    "region": "South Central",
+                    "latitude": 35.4641,
+                    "longitude": -97.5137
+				 },
+				 {
+                    "flagUrl": "http://cdn.jaminya.com/images/states/nevada_88x88.png",
+                    "slug": "nevada88",
+                    "sports_team": "None",
+                    "city": "Las Vegas",
+                    "state": "Nevada",
+                    "region": "Western",
+                    "latitude": 36.2292,
+                    "longitude": -115.2601
+				 },
+				 {
+                    "flagUrl": "http://cdn.jaminya.com/images/states/kentucky_88x88.png",
+                    "slug": "kentucky88",
+                    "sports_team": "None",
+                    "city": "Louisville",
+                    "state": "Kentucky",
+                    "region": "Eastern",
+                    "latitude": 38.1654,
+                    "longitude": -85.6474
+				 }
                 ]
 }
