@@ -94,7 +94,7 @@
 				    {
 					"flagUrl": "http://cdn.jaminya.com/images/states/california_88x88.png",
 					"slug": "california88",
-					 "sports_team": "Silicon Valley",
+					 "sports_team": "Warriors",
 					 "city": "San Jose",
                     "state": "California",
 					 "region": "Western",
@@ -104,7 +104,7 @@
 				    {
 					"flagUrl": "http://cdn.jaminya.com/images/states/texas_88x88.png",
 					"slug": "texas88",
-					 "sports_team": "City Limit",
+					 "sports_team": "Spurs",
 					 "city": "Austin",
                     "state": "Texas",
 					 "region": "South Central",
@@ -194,7 +194,7 @@
 				 {
                     "flagUrl": "http://cdn.jaminya.com/images/states/michigan_88x88.png",
                     "slug": "michigan88",
-                    "sports_team": "None",
+                    "sports_team": "Pistons",
                     "city": "Detroit",
                     "state": "Michigan",
                     "region": "North Central",
@@ -244,7 +244,7 @@
 				 {
                     "flagUrl": "http://cdn.jaminya.com/images/states/nevada_88x88.png",
                     "slug": "nevada88",
-                    "sports_team": "None",
+                    "sports_team": "Starzz",
                     "city": "Las Vegas",
                     "state": "Nevada",
                     "region": "Western",
@@ -254,7 +254,7 @@
 				 {
                     "flagUrl": "http://cdn.jaminya.com/images/states/kentucky_88x88.png",
                     "slug": "kentucky88",
-                    "sports_team": "None",
+                    "sports_team": "Cardinals",
                     "city": "Louisville",
                     "state": "Kentucky",
                     "region": "Eastern",
